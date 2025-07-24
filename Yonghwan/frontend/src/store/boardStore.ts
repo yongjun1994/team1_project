@@ -1,0 +1,1 @@
+// boardStore.ts placeholder

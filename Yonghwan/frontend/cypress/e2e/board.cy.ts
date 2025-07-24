@@ -1,0 +1,1 @@
+// board.cy.ts placeholder

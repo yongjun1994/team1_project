@@ -1,0 +1,1 @@
+// BoardPage.tsx placeholder
