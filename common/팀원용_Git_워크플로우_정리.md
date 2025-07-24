@@ -49,6 +49,9 @@ git add .
 git commit -m "init"
 
 # 5. GitHub에 push
+git push origin main
+
+## 참고
 git push -u origin main
 ```
 
@@ -104,7 +107,7 @@ git branch -m master main
 git remote add origin https://github.com/사용자이름/저장소이름.git
 git add .
 git commit -m "init"
-git push -u origin main
+git push origin main
 ```
 
 ### 🌐 GitHub 저장소를 받아서 작업할 때
@@ -117,8 +120,3 @@ git add .
 git commit -m "작업 내용"
 git push origin main
 ```
-
----
-
-필요하면 브랜치 전략, 협업 규칙, 충돌 해결법도 따로 정리해드릴게요.  
-궁금한 점은 언제든지 편하게 질문 주세요 😄
